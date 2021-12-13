@@ -5,7 +5,7 @@ export const Note = styled(Card)`
   position: relative;
   background-color: ${({ bgColor }) => bgColor};
   transition: all 0.3s ease;
-  border-radius: 10%;
+  border-radius: 10px;
   cursor: pointer;
   padding: 30px;
   padding-bottom: 5px;
